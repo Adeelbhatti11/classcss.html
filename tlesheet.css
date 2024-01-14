@@ -1,0 +1,13 @@
+.body{
+    color: red;
+    background-color: antiquewhite;
+    margin: 20px 30px 20px 30px;
+    border: 5px solid red;
+    padding: 30px 50px 30px 50px ;
+    outline: 10px solid greenyellow;
+  max-width: 600px;
+   min-width: 400px;
+   height: 900px;
+  overflow: scroll;
+   box-sizing: border-box;
+}
